@@ -1,4 +1,5 @@
 <?
+    $name = "";
 	error_reporting(0);
 	
 	$conn=odbc_connect('dwbi','Atif.Shahzad','shahzad4444');
